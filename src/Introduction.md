@@ -6,6 +6,8 @@ AWDL(**A**pple **W**ireless **D**irect **L**ink) is a protocol, for wireless P2P
 
 In these docs, you will partialy find an explanation for the AWDL frame format, as well as an explanation for the operation of the AWDL protocol. This is also partialy linked to the [awdl-frame-parser](https://crates.io/crates/awdl-frame-parser) crate, which was built by me, so expect refrences to it throughout the docs. Lastly there is a section for bugs found in the AWDL protocol itself.
 
+- [Terminology](./Terminology.md)
+
 - Frame Documentation
 
 ## Contributing
