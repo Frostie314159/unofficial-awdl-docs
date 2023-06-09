@@ -18,5 +18,3 @@ In the TLV the type of the transmitting device is encoded as a one byte value, a
 | 0x01  | MacOS          |
 | 0x02  | iOS or WatchOS |
 | 0x08  | tvOS           |
-
-

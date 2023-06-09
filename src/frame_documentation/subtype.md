@@ -8,5 +8,3 @@ AWDL action frames have two subtypes, master indication(MIF) and periodic synchr
 | ---- | ----- |
 | MIF  | 0x03  |
 | PSF  | 0x00  |
-
-
